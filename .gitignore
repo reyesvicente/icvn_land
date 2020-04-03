@@ -5,12 +5,11 @@
 __pycache__/
 local_settings.py
 db.sqlite3
-db.sqlite3-journal
 /media
 env
 /static
 node_modules
-.vscode/*
+.vscode
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
@@ -63,38 +62,6 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
-
-# Translations
-*.mo
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# pyenv
-.python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# celery beat schedule file
-celerybeat-schedule
-
-# SageMath parsed files
-*.sage.py
-
-# Spyder project settings
-.spyderproject
-.spyproject
 
 # Rope project settings
 .ropeproject
