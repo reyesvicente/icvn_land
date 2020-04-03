@@ -10,7 +10,7 @@ db.sqlite3-journal
 env
 /static
 node_modules
-.vscode/
+.vscode/*
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
