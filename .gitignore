@@ -6,12 +6,12 @@ __pycache__/
 local_settings.py
 db.sqlite3
 /media
-images/*
-logo/*
+/images/*
+/logo/*
 env
 /static
 node_modules
-.vscode
+/.vscode
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
